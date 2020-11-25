@@ -1,9 +1,8 @@
 # stm32_bluepill_blinky
 
-Microcontroller "Hello world" of blinking LED in STM32CubeIDE.
+Microcontroller Hello world of blinking LED in STM32CubeIDE.
 
-Created for STM32Duino "Blue Pill" HW-267 based on STM32F103CBT6 MCU. 
-
+Created for STM32 "Blue Pill" HW-267 based on STM32F103CBT6 MCU. 
 
 ### To run/modify this project locally:
 
